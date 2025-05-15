@@ -1,1 +1,1 @@
-# EX-11-ML-Implementation-of-SVM-For-Spam-Mail-Detection
+# EX 11 : IMPLEMENTATION OF SVM FOR SPAM MAIL DETECTION
